@@ -18,7 +18,7 @@ The first milestone builds the secure entry point of the project: a web app wher
 Python · Streamlit · PyJWT · bcrypt · SQLite · SMTP (Gmail App Password) · ngrok · Google Colab
 
 ## How to run
-1. Open `Milestone1_Maritime_Auth_Fixed.ipynb` in Google Colab.
+1. Open `Milestone1_1(1).ipynb` in Google Colab.
 2. Add these **Colab Secrets** (key icon, notebook access ON): `JWT_SECRET`, `NGROK_AUTHTOKEN`, `EMAIL_ADDRESS`, `EMAIL_PASSWORD`, `ADMIN_USERNAME`, `ADMIN_PASSWORD`.
 3. *(Optional)* create an `images` folder in the Files panel and upload pictures for the home page.
 4. Run cells 1 to 5 in order, then run the last cell and open the printed URL.
