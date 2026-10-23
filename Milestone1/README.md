@@ -66,15 +66,9 @@ The Streamlit app runs inside Google Colab, which does not give a public link by
 - Login shows one generic error, so it never reveals whether the username or the password was wrong.
 
 ## Folder Structure
-```
-Milestone1/
-├── README.md
-├── Milestone1_Maritime_Auth_Fixed.ipynb
-└── screenshots/
-    ├── home.png
-    ├── login.png
-    └── ... (all screenshots)
-
+- `Milestone1/README.md`
+- `Milestone1/Milestone1_Maritime_Auth_Fixed.ipynb`
+- `Milestone1/screenshots/` (all screenshots)
 
 ## Screenshots
 | Page | Screenshot |
