@@ -75,6 +75,7 @@ Milestone1/
     ├── login.png
     └── ... (all screenshots)
 
+
 ## Screenshots
 | Page | Screenshot |
 |---|---|
@@ -88,4 +89,5 @@ Milestone1/
 | User Dashboard | ![User Dashboard](screenshots/user_dashboard.png) |
 | Settings – Change Password | ![Change Password](screenshots/settings_change_password.png) |
 | Settings – Security Question | ![Security Question](screenshots/settings_security_question.png) |
+| Admin Login | ![Admin Login](screenshots/admin_login.png) |
 | Admin Dashboard | ![Admin Dashboard](screenshots/admin_dashboard.png) |
